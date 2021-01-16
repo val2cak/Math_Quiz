@@ -1,0 +1,26 @@
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\bin\Debug\Math Quiz1.exe.config
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\bin\Debug\Math Quiz1.exe
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\bin\Debug\Math Quiz1.pdb
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.csprojAssemblyReference.cache
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.Properties.Resources.resources
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.csproj.GenerateResource.cache
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.exe
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.pdb
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.medium.resources
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.cover.resources
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.hard.resources
+C:\Users\Valentina\source\repos\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.easy.resources
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\bin\Debug\Math Quiz1.exe.config
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\bin\Debug\Math Quiz1.exe
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\bin\Debug\Math Quiz1.pdb
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.csprojAssemblyReference.cache
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.medium.resources
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.cover.resources
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.hard.resources
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.easy.resources
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math_Quiz1.Properties.Resources.resources
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.csproj.GenerateResource.cache
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.exe
+C:\Users\Valentina\Desktop\Math Quiz1\Math Quiz1\obj\Debug\Math Quiz1.pdb
